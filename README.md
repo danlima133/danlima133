@@ -6,7 +6,6 @@ About me:
 
 - 🌱 I’m currently learning English
 - 💬 Ask me about how can i help you
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact:  -->
 
+<button>test</button>
