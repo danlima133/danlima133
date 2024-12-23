@@ -1,11 +1,7 @@
 # Olá, me chamo Daniel!
 Trabalho com desenvolvimento de jogos indie e estou estudando desenvolvimento web.
 <br>
-Trabalho em um studio de desnvolvimento indie: WisePotion.
-## About Me
-Estou sempre em busca do conhecimento, amo o desenvolvimento de games, mas estou abrindo novas portas para desenvolvimento web.
-<br>
-Estou em busca do meu portifólio.
+Trabalho em um studio de desnvolvimento indie: **WisePotion**.
 ## Pode me Encotrar
 - <a href="https://www.instagram.com/danlima133">Instagram</a>
 - <a href="https://daniel-lima.itch.io/">Itch.io</a>
@@ -21,10 +17,7 @@ Estou em busca do meu portifólio.
 ## Linguagens de Marcação
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-## Frameworks
-<!--![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)-->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-## Linguangens Trabalhadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlima133&layout=compact&theme=dark)](https://github.com/seu_usuario)
 
 
